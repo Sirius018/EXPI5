@@ -11,9 +11,9 @@
 			<_id type="a">GUID cc36d2b6-8572-46d4-806d-0dacae609a7b</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">GESTI%D3N_DE_CURSOS_UNIVERSITARIOS</_name>
-			<_modifiedTimeWeak type="a">7.12.2017::5:5:41</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.12.2017::5:5:41</_modifiedTime>
-			<_lastID type="a">6</_lastID>
+			<_modifiedTimeWeak type="a">7.12.2017::6:12:14</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.12.2017::6:12:14</_modifiedTime>
+			<_lastID type="a">34</_lastID>
 			<_UserColors type="w">
 				<IRPYRawContainer type="e">
 					<size type="a">16</size>
@@ -95,6 +95,28 @@
 				<value>GUID f883ccaf-9b1e-452f-809a-40b7ddb88a81</value>
 				<value>GUID 018fd50e-cdfb-4d1c-8d00-c6e75ba697d6</value>
 				<value>GUID 7e97bde9-a060-4e4f-bb69-e3b345acb7db</value>
+				<value>GUID a5c47ab7-b8d4-44fa-8a42-b32847eec1e9</value>
+				<value>GUID 330d22f0-a55a-4054-9e9a-1641a17a951b</value>
+				<value>GUID 5d57d622-a5dc-4840-9b2d-2fa6e63d6241</value>
+				<value>GUID 8584a206-659d-48af-80f0-77ce52299ef8</value>
+				<value>GUID bb6df241-271a-4b11-aa9b-3dd0b0afecc9</value>
+				<value>GUID 825e8924-c445-4d3c-b037-ce82fd8fd20f</value>
+				<value>GUID 6665ae77-940a-499c-bba8-ca3e8297fdf1</value>
+				<value>GUID dcdab79e-4059-4f1c-a8c9-b87782e4649e</value>
+				<value>GUID 5eb6b084-ca90-4859-86f3-7ad50b723750</value>
+				<value>GUID ec75c962-8441-44fd-b86f-768121b6be6e</value>
+				<value>GUID 6404dc14-3468-4d9a-8e33-25e1fa84da89</value>
+				<value>GUID 0c42c3cc-a515-4e25-9a3d-2a0659da91e5</value>
+				<value>GUID c03cc517-fbab-4195-940c-364a93aa0de1</value>
+				<value>GUID 5e3cddc5-f8b1-4467-b2a0-ddb3844ad41c</value>
+				<value>GUID a45d2859-0dc4-4162-a7eb-b54ec2032c4b</value>
+				<value>GUID 1a55883f-92ac-49f7-b0dc-5f3373f20cc6</value>
+				<value>GUID c046ae0d-b6f3-4f6f-8067-797358266d4b</value>
+				<value>GUID 978edadd-b688-4d6f-aa7f-fa0899eb3e66</value>
+				<value>GUID 1061a09d-9f4a-4faf-afce-02bb7552045e</value>
+				<value>GUID 060ada76-0668-4ebb-aef1-c43a87a95e3d</value>
+				<value>GUID 3441da01-b6a0-4fb7-a002-28cfc7cf34f9</value>
+				<value>GUID 86440372-3bd5-48d2-b5a7-d608e2c2170d</value>
 				<value>GUID 8649ed3b-cbf4-45b3-92d5-6d3328794ca2</value>
 				<value>GUID 5847b146-3a76-45bf-9d51-6a4d88986460</value>
 				<value>GUID 9617f9bf-74d1-40fd-bd0a-4e422ec1e59e</value>
@@ -144,6 +166,94 @@
 			<_id type="a">GUID 7e97bde9-a060-4e4f-bb69-e3b345acb7db</_id>
 			<_partOfTheModelKind type="a">referenceunit</_partOfTheModelKind>
 		</IProfile>
+		<ISubsystem type="e">
+			<fileName type="a">Compra_Curso</fileName>
+			<_id type="a">GUID a5c47ab7-b8d4-44fa-8a42-b32847eec1e9</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">package_13</fileName>
+			<_id type="a">GUID 330d22f0-a55a-4054-9e9a-1641a17a951b</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">package_14</fileName>
+			<_id type="a">GUID 5d57d622-a5dc-4840-9b2d-2fa6e63d6241</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">package_15</fileName>
+			<_id type="a">GUID 8584a206-659d-48af-80f0-77ce52299ef8</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">package_16</fileName>
+			<_id type="a">GUID bb6df241-271a-4b11-aa9b-3dd0b0afecc9</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">package_17</fileName>
+			<_id type="a">GUID 825e8924-c445-4d3c-b037-ce82fd8fd20f</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">package_18</fileName>
+			<_id type="a">GUID 6665ae77-940a-499c-bba8-ca3e8297fdf1</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">package_19</fileName>
+			<_id type="a">GUID dcdab79e-4059-4f1c-a8c9-b87782e4649e</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">package_20</fileName>
+			<_id type="a">GUID 5eb6b084-ca90-4859-86f3-7ad50b723750</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">package_21</fileName>
+			<_id type="a">GUID ec75c962-8441-44fd-b86f-768121b6be6e</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">package_22</fileName>
+			<_id type="a">GUID 6404dc14-3468-4d9a-8e33-25e1fa84da89</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">package_23</fileName>
+			<_id type="a">GUID 0c42c3cc-a515-4e25-9a3d-2a0659da91e5</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">package_24</fileName>
+			<_id type="a">GUID c03cc517-fbab-4195-940c-364a93aa0de1</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">package_25</fileName>
+			<_id type="a">GUID 5e3cddc5-f8b1-4467-b2a0-ddb3844ad41c</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">package_26</fileName>
+			<_id type="a">GUID a45d2859-0dc4-4162-a7eb-b54ec2032c4b</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">package_27</fileName>
+			<_id type="a">GUID 1a55883f-92ac-49f7-b0dc-5f3373f20cc6</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">package_28</fileName>
+			<_id type="a">GUID c046ae0d-b6f3-4f6f-8067-797358266d4b</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">package_29</fileName>
+			<_id type="a">GUID 978edadd-b688-4d6f-aa7f-fa0899eb3e66</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">package_30</fileName>
+			<_id type="a">GUID 1061a09d-9f4a-4faf-afce-02bb7552045e</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">package_31</fileName>
+			<_id type="a">GUID 060ada76-0668-4ebb-aef1-c43a87a95e3d</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">package_32</fileName>
+			<_id type="a">GUID 3441da01-b6a0-4fb7-a002-28cfc7cf34f9</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">package_33</fileName>
+			<_id type="a">GUID 86440372-3bd5-48d2-b5a7-d608e2c2170d</_id>
+		</ISubsystem>
 		<IDiagram type="e">
 			<_id type="a">GUID 8649ed3b-cbf4-45b3-92d5-6d3328794ca2</_id>
 			<_myState type="a">8192</_myState>

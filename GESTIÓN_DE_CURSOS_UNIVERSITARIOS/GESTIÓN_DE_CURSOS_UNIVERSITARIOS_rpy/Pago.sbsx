@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>100.840.0</version>
+	<lang>C++</lang>
+	<BuildNo>9841247</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 385a692b-7b31-4ca0-a864-ff2dcf2f1e26</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Pago</_name>
+			<_modifiedTimeWeak type="a">7.12.2017::5:29:58</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\MA.sbsx</_hfilename>
+					<_hsubsystem type="a">MA</_hsubsystem>
+					<_hname type="a">Dia Arquitectura Analisis</_hname>
+					<_hid type="a">GUID caa5735a-cf9f-4051-8cd9-96b66f3fa363</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">7.12.2017::5:29:58</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<weakCGTime type="a">7.12.2017::5:29:58</weakCGTime>
+			<strongCGTime type="a">7.12.2017::5:27:0</strongCGTime>
+			<_defaultComposite type="s">GUID 33141e26-a342-4386-a841-30a035654812</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">12.31.1969::19:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 9e1d5d05-dbb1-484a-92f7-876cd874b0fc</value>
+				<value>GUID 33141e26-a342-4386-a841-30a035654812</value>
+				<value>GUID aa27e68c-0c96-4086-a258-dc24002c48db</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IDependency type="e">
+			<_id type="a">GUID 9e1d5d05-dbb1-484a-92f7-876cd874b0fc</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">Compra</_name>
+			<_modifiedTimeWeak type="a">7.12.2017::5:27:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.12.2017::5:27:0</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hfilename type="a">.\Compra.sbsx</_hfilename>
+					<_hsubsystem type="a">MA</_hsubsystem>
+					<_hname type="a">Compra</_hname>
+					<_hid type="a">GUID ee4ea434-6aef-426e-8539-c7408faf5722</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hid type="a">GUID 385a692b-7b31-4ca0-a864-ff2dcf2f1e26</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IClass type="e">
+			<_id type="a">GUID 33141e26-a342-4386-a841-30a035654812</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<IUseCase type="e">
+			<_id type="a">GUID aa27e68c-0c96-4086-a258-dc24002c48db</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CU7_Registro_Pago</_name>
+			<_modifiedTimeWeak type="a">7.12.2017::5:52:4</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.12.2017::5:29:58</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<weakCGTime type="a">7.12.2017::5:52:4</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<_EntryPoints type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</_EntryPoints>
+			<AggregatesList type="e">
+				<value>GUID 2e375a91-472c-47e3-a3bc-3c39343a1db4</value>
+			</AggregatesList>
+		</IUseCase>
+		<IDependency type="e">
+			<_id type="a">GUID 2e375a91-472c-47e3-a3bc-3c39343a1db4</_id>
+			<_myState type="a">2048</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">CU6_Compra_Curso</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">extend</_hname>
+							<_hid type="a">GUID 17ef9a30-cb89-11d5-b5bf-00d0b780aafd</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">7.12.2017::5:52:4</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.12.2017::5:29:58</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU6_Compra_Curso</_hname>
+					<_hid type="a">GUID 1d5cae6f-9f20-43d8-b692-b584eaa82655</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hid type="a">GUID aa27e68c-0c96-4086-a258-dc24002c48db</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

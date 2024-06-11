@@ -11,7 +11,7 @@
 			<_id type="a">GUID ab5dce19-5a55-4b5b-88d3-9af812daed04</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">MCU</_name>
-			<_modifiedTimeWeak type="a">7.12.2017::6:38:36</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">7.12.2017::5:1:29</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -19,9 +19,9 @@
 					<_hid type="a">GUID 5847b146-3a76-45bf-9d51-6a4d88986460</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">7.12.2017::6:38:36</_modifiedTime>
+			<_modifiedTime type="a">7.12.2017::5:1:29</_modifiedTime>
 			<_lastID type="a">18</_lastID>
-			<weakCGTime type="a">7.12.2017::6:38:36</weakCGTime>
+			<weakCGTime type="a">7.12.2017::5:1:29</weakCGTime>
 			<strongCGTime type="a">7.12.2017::5:1:39</strongCGTime>
 			<_defaultComposite type="s">GUID fdde6816-51a2-4472-9271-57ed0f5dddb5</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -35,7 +35,6 @@
 				<value>GUID b1783515-66a5-407d-92f1-c267363f062d</value>
 				<value>GUID e9f9e68b-42c0-44a7-a0e1-300c2148f4ba</value>
 				<value>GUID 31aee976-126b-4699-bb73-6a54e4249d4c</value>
-				<value>GUID f5f8795e-d798-405e-baf4-435ae7e2a4c4</value>
 				<value>GUID 33bc2550-937e-43e5-9429-fe6936198553</value>
 				<value>GUID 1d5cae6f-9f20-43d8-b692-b584eaa82655</value>
 				<value>GUID 6e51e782-fe4e-4d8c-b7ab-aaf7d2050909</value>
@@ -307,8 +306,8 @@
 			</_properties>
 			<_name type="a">Diagrama_General_CU</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.12.2017::6:38:36</_modifiedTime>
-			<_lastModifiedTime type="a">7.12.2017::6:38:36</_lastModifiedTime>
+			<_modifiedTime type="a">7.12.2017::5:1:56</_modifiedTime>
+			<_lastModifiedTime type="a">7.12.2017::5:1:56</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -1772,7 +1771,7 @@
 			<m_pParent type="s">GUID a4f82488-a34a-4981-b8f2-06d18bf6dfb7</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">CU7_Compra_Curso</m_str>
+					<m_str type="a">CU6_Compra_Curso</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -1822,7 +1821,7 @@
 			<m_pParent type="s">GUID a4f82488-a34a-4981-b8f2-06d18bf6dfb7</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">CU8_Registro_Pago</m_str>
+					<m_str type="a">CU7_Registro_Pago</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2270,7 +2269,7 @@
 			<m_pParent type="s">GUID a4f82488-a34a-4981-b8f2-06d18bf6dfb7</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">CU9_Mantenimiento_Profesor</m_str>
+					<m_str type="a">CU8_Mantenimiento_Profesor</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3439,7 +3438,7 @@
 			<_myState type="a">40960</_myState>
 			<_name type="a">TopLevel</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
 			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
 			<_itsStateChart type="r">
@@ -3461,16 +3460,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<Diagrams type="c">
-				<IRPYRawContainer type="e">
-					<size type="a">0</size>
-				</IRPYRawContainer>
-			</Diagrams>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-					<size type="a">0</size>
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">0</size>
@@ -3552,7 +3541,7 @@
 			<_id type="a">GUID 92077d0d-c7e5-42eb-adb5-e26617875123</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">CU1_Registrar_Curso</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">7.12.2017::5:38:13</_modifiedTimeWeak>
 			<_modifiedTime type="a">7.12.2017::5:46:25</_modifiedTime>
 			<_lastID type="a">2</_lastID>
 			<weakCGTime type="a">7.12.2017::5:38:13</weakCGTime>
@@ -3562,11 +3551,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-					<size type="a">0</size>
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">0</size>
@@ -3668,7 +3652,7 @@
 			<_id type="a">GUID 3f9adfa8-8c42-443d-848e-88a7b2c6e7dc</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">CU2_Mantenimiento_Curso</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">7.12.2017::5:41:3</_modifiedTimeWeak>
 			<_modifiedTime type="a">7.12.2017::5:46:25</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<weakCGTime type="a">7.12.2017::5:41:3</weakCGTime>
@@ -3678,11 +3662,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-					<size type="a">0</size>
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">0</size>
@@ -3751,8 +3730,8 @@
 			<_id type="a">GUID b1783515-66a5-407d-92f1-c267363f062d</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">CU3_Registrar_Clase_en_Curso</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.12.2017::6:34:17</_modifiedTime>
+			<_modifiedTimeWeak type="a">7.12.2017::6:34:17</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.12.2017::5:1:29</_modifiedTime>
 			<_lastID type="a">2</_lastID>
 			<weakCGTime type="a">7.12.2017::6:34:17</weakCGTime>
 			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
@@ -3761,54 +3740,16 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-					<size type="a">0</size>
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">0</size>
 				</IRPYRawContainer>
 			</_EntryPoints>
 			<AggregatesList type="e">
-				<value>GUID 70ac99a0-6c6a-406b-8fd5-fff8006cae30</value>
 				<value>GUID 80e0d7a9-c7f8-4c71-a186-8c96ab4b39de</value>
 				<value>GUID 510455e6-2ff0-4df0-b754-2b0ffc1fd5ee</value>
 			</AggregatesList>
 		</IUseCase>
-		<IDependency type="e">
-			<_id type="a">GUID 70ac99a0-6c6a-406b-8fd5-fff8006cae30</_id>
-			<_myState type="a">2048</_myState>
-			<_name type="a">CU6_Buscar_Curso</_name>
-			<Stereotypes type="c">
-				<IRPYRawContainer type="e">
-					<size type="a">1</size>
-					
-						<IHandle type="e">
-							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
-							<_hname type="a">include</_hname>
-							<_hid type="a">GUID 17ef9a2f-cb89-11d5-b5bf-00d0b780aafd</_hid>
-						</IHandle>
-					
-				</IRPYRawContainer>
-			</Stereotypes>
-			<_modifiedTimeWeak type="a">7.12.2017::5:42:51</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.12.2017::5:42:51</_modifiedTime>
-			<_dependsOn type="r">
-				<INObjectHandle type="e">
-					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hid type="a">GUID f5f8795e-d798-405e-baf4-435ae7e2a4c4</_hid>
-				</INObjectHandle>
-			</_dependsOn>
-			<_dependent type="r">
-				<INObjectHandle type="e">
-					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hid type="a">GUID b1783515-66a5-407d-92f1-c267363f062d</_hid>
-				</INObjectHandle>
-			</_dependent>
-		</IDependency>
 		<IDependency type="e">
 			<_id type="a">GUID 80e0d7a9-c7f8-4c71-a186-8c96ab4b39de</_id>
 			<_myState type="a">2048</_myState>
@@ -3876,11 +3817,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-					<size type="a">0</size>
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">0</size>
@@ -3900,35 +3836,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-					<size type="a">0</size>
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
-			<_EntryPoints type="c">
-				<IRPYRawContainer type="e">
-					<size type="a">0</size>
-				</IRPYRawContainer>
-			</_EntryPoints>
-		</IUseCase>
-		<IUseCase type="e">
-			<_id type="a">GUID f5f8795e-d798-405e-baf4-435ae7e2a4c4</_id>
-			<_myState type="a">8192</_myState>
-			<_name type="a">CU6_Buscar_Curso</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.12.2017::5:42:44</_modifiedTime>
-			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
-			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
-			<_itsStateChart type="r">
-				<IHandle type="e">
-				</IHandle>
-			</_itsStateChart>
-			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-					<size type="a">0</size>
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">0</size>
@@ -3948,16 +3855,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<Diagrams type="c">
-				<IRPYRawContainer type="e">
-					<size type="a">0</size>
-				</IRPYRawContainer>
-			</Diagrams>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-					<size type="a">0</size>
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">0</size>
@@ -4038,9 +3935,9 @@
 		<IUseCase type="e">
 			<_id type="a">GUID 1d5cae6f-9f20-43d8-b692-b584eaa82655</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">CU7_Compra_Curso</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.12.2017::5:52:43</_modifiedTime>
+			<_name type="a">CU6_Compra_Curso</_name>
+			<_modifiedTimeWeak type="a">7.12.2017::5:52:43</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.12.2017::5:1:42</_modifiedTime>
 			<_lastID type="a">2</_lastID>
 			<weakCGTime type="a">7.12.2017::5:52:43</weakCGTime>
 			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
@@ -4049,11 +3946,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-					<size type="a">0</size>
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">0</size>
@@ -4134,7 +4026,7 @@
 			<_myState type="a">10240</_myState>
 			<_name type="a">itsAlumno</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.12.2017::5:51:58</_modifiedTime>
+			<_modifiedTime type="a">7.12.2017::5:1:42</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
@@ -4164,11 +4056,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-					<size type="a">0</size>
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">0</size>
@@ -4178,9 +4065,9 @@
 		<IUseCase type="e">
 			<_id type="a">GUID 4036ea28-b6d3-4c91-93b4-dd171b04884b</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">CU8_Registro_Pago</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.12.2017::5:52:4</_modifiedTime>
+			<_name type="a">CU7_Registro_Pago</_name>
+			<_modifiedTimeWeak type="a">7.12.2017::5:52:4</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.12.2017::5:1:48</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<weakCGTime type="a">7.12.2017::5:52:4</weakCGTime>
 			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
@@ -4189,11 +4076,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-					<size type="a">0</size>
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">0</size>
@@ -4206,7 +4088,7 @@
 		<IDependency type="e">
 			<_id type="a">GUID 0c248566-100e-4d51-a5b3-874cac20e78b</_id>
 			<_myState type="a">2048</_myState>
-			<_name type="a">CU7_Compra_Curso</_name>
+			<_name type="a">CU6_Compra_Curso</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">1</size>
@@ -4221,7 +4103,7 @@
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">7.12.2017::5:52:4</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.12.2017::5:52:4</_modifiedTime>
+			<_modifiedTime type="a">7.12.2017::5:1:42</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
@@ -4238,9 +4120,9 @@
 		<IUseCase type="e">
 			<_id type="a">GUID cd6386cb-2a92-4faa-9d17-705db0e90500</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">CU9_Mantenimiento_Profesor</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.12.2017::6:5:58</_modifiedTime>
+			<_name type="a">CU8_Mantenimiento_Profesor</_name>
+			<_modifiedTimeWeak type="a">7.12.2017::6:5:58</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.12.2017::5:1:56</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<weakCGTime type="a">7.12.2017::6:5:58</weakCGTime>
 			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
@@ -4249,16 +4131,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<Diagrams type="c">
-				<IRPYRawContainer type="e">
-					<size type="a">0</size>
-				</IRPYRawContainer>
-			</Diagrams>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-					<size type="a">0</size>
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">0</size>
@@ -4306,7 +4178,7 @@
 			<_myState type="a">10240</_myState>
 			<_name type="a">itsAdministrador</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.12.2017::6:5:32</_modifiedTime>
+			<_modifiedTime type="a">7.12.2017::5:1:56</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
@@ -4327,8 +4199,8 @@
 			<_id type="a">GUID 83649fbf-dd47-40ad-8bd7-92cf9cd468ff</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Alumno</_name>
-			<_modifiedTimeWeak type="a">7.12.2017::6:36:7</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.12.2017::6:11:56</_modifiedTime>
+			<_modifiedTimeWeak type="a">7.12.2017::5:1:42</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.12.2017::5:1:42</_modifiedTime>
 			<weakCGTime type="a">7.12.2017::6:36:7</weakCGTime>
 			<strongCGTime type="a">7.12.2017::5:7:29</strongCGTime>
 			<_itsStateChart type="r">
@@ -4346,7 +4218,7 @@
 		<IGeneralization type="e">
 			<_id type="a">GUID 84166718-7bca-40e5-b8ee-e329a3b2cd17</_id>
 			<_modifiedTimeWeak type="a">7.12.2017::6:36:7</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IActor</_hm2Class>
@@ -4359,7 +4231,7 @@
 		<IGeneralization type="e">
 			<_id type="a">GUID c93fb4cf-28ac-4abb-81f7-e663b80b0297</_id>
 			<_modifiedTimeWeak type="a">7.12.2017::6:36:7</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IActor</_hm2Class>
@@ -4394,9 +4266,9 @@
 		<IAssociationEnd type="e">
 			<_id type="a">GUID 9987bb7a-2df8-4e57-922f-06ecbb8e5a23</_id>
 			<_myState type="a">10240</_myState>
-			<_name type="a">itsCU7_Compra_Curso</_name>
+			<_name type="a">itsCU6_Compra_Curso</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.12.2017::5:51:58</_modifiedTime>
+			<_modifiedTime type="a">7.12.2017::5:1:42</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
@@ -4436,7 +4308,7 @@
 		<IGeneralization type="e">
 			<_id type="a">GUID 6c7af4da-8659-4e2e-9d3f-d4c076972dd1</_id>
 			<_modifiedTimeWeak type="a">7.12.2017::6:36:7</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IActor</_hm2Class>
@@ -4449,7 +4321,7 @@
 		<IGeneralization type="e">
 			<_id type="a">GUID 7aec21d5-4ad4-4c19-835f-c5e1fe94bb82</_id>
 			<_modifiedTimeWeak type="a">7.12.2017::6:36:7</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IActor</_hm2Class>
@@ -4615,8 +4487,8 @@
 			<_id type="a">GUID a8b3ba5e-41f9-4ed6-8176-c063961fa79f</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Administrador</_name>
-			<_modifiedTimeWeak type="a">7.12.2017::6:36:9</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.12.2017::6:32:13</_modifiedTime>
+			<_modifiedTimeWeak type="a">7.12.2017::5:1:56</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.12.2017::5:1:56</_modifiedTime>
 			<weakCGTime type="a">7.12.2017::6:36:9</weakCGTime>
 			<strongCGTime type="a">7.12.2017::6:4:54</strongCGTime>
 			<_itsStateChart type="r">
@@ -4635,7 +4507,7 @@
 		<IGeneralization type="e">
 			<_id type="a">GUID bc03ab86-6c03-432b-b93f-f5ee7f0d196a</_id>
 			<_modifiedTimeWeak type="a">7.12.2017::6:36:9</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IActor</_hm2Class>
@@ -4648,7 +4520,7 @@
 		<IGeneralization type="e">
 			<_id type="a">GUID bb4f5ecd-04e7-42fc-8232-a79b608a529a</_id>
 			<_modifiedTimeWeak type="a">7.12.2017::6:36:9</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IActor</_hm2Class>
@@ -4661,7 +4533,7 @@
 		<IGeneralization type="e">
 			<_id type="a">GUID e353ebe8-7ef5-41ea-a450-5069c1f86868</_id>
 			<_modifiedTimeWeak type="a">7.12.2017::6:36:9</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IActor</_hm2Class>
@@ -4674,7 +4546,7 @@
 		<IGeneralization type="e">
 			<_id type="a">GUID a2f93026-85dd-4853-9487-258272c5bfc5</_id>
 			<_modifiedTimeWeak type="a">7.12.2017::6:36:9</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IActor</_hm2Class>
@@ -4687,9 +4559,9 @@
 		<IAssociationEnd type="e">
 			<_id type="a">GUID d873a5a5-da1a-4202-bfb8-084922c0fdc2</_id>
 			<_myState type="a">10240</_myState>
-			<_name type="a">itsCU9_Mantenimiento_Profesor</_name>
+			<_name type="a">itsCU8_Mantenimiento_Profesor</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.12.2017::6:5:32</_modifiedTime>
+			<_modifiedTime type="a">7.12.2017::5:1:56</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
@@ -4728,7 +4600,7 @@
 		<IGeneralization type="e">
 			<_id type="a">GUID 11198716-09ac-466e-b085-0013ec62c7a7</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IActor</_hm2Class>

@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>100.840.0</version>
+	<lang>C++</lang>
+	<BuildNo>9841247</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID ee4ea434-6aef-426e-8539-c7408faf5722</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Compra</_name>
+			<_modifiedTimeWeak type="a">7.12.2017::5:30:24</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\MA.sbsx</_hfilename>
+					<_hsubsystem type="a">MA</_hsubsystem>
+					<_hname type="a">Dia Arquitectura Analisis</_hname>
+					<_hid type="a">GUID caa5735a-cf9f-4051-8cd9-96b66f3fa363</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">7.12.2017::5:30:24</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<weakCGTime type="a">7.12.2017::5:30:24</weakCGTime>
+			<strongCGTime type="a">7.12.2017::5:26:48</strongCGTime>
+			<_defaultComposite type="s">GUID 1d7d2333-593b-4ee3-89e7-8c21f749aba0</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">12.31.1969::19:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 99fdec77-16f9-48b6-b0ad-18753315aac5</value>
+				<value>GUID f0bc9d44-965a-495c-91b7-4c43429254f0</value>
+				<value>GUID 1d7d2333-593b-4ee3-89e7-8c21f749aba0</value>
+				<value>GUID c135406d-ffbd-40ab-9b2c-56e758988618</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IDependency type="e">
+			<_id type="a">GUID 99fdec77-16f9-48b6-b0ad-18753315aac5</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">Profesor</_name>
+			<_modifiedTimeWeak type="a">7.12.2017::5:26:45</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.12.2017::5:26:45</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hfilename type="a">.\Profesor.sbsx</_hfilename>
+					<_hsubsystem type="a">MA</_hsubsystem>
+					<_hname type="a">Profesor</_hname>
+					<_hid type="a">GUID cb2b0bec-f888-478c-8dec-a1fafdf86700</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hid type="a">GUID ee4ea434-6aef-426e-8539-c7408faf5722</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID f0bc9d44-965a-495c-91b7-4c43429254f0</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">Curso</_name>
+			<_modifiedTimeWeak type="a">7.12.2017::5:26:48</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.12.2017::5:26:48</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hfilename type="a">.\Curso.sbsx</_hfilename>
+					<_hsubsystem type="a">MA</_hsubsystem>
+					<_hname type="a">Curso</_hname>
+					<_hid type="a">GUID a86899f9-2c02-4e9b-8003-0148e153196d</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hid type="a">GUID ee4ea434-6aef-426e-8539-c7408faf5722</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IClass type="e">
+			<_id type="a">GUID 1d7d2333-593b-4ee3-89e7-8c21f749aba0</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<IUseCase type="e">
+			<_id type="a">GUID c135406d-ffbd-40ab-9b2c-56e758988618</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">CU6_Compra_Curso</_name>
+			<_modifiedTimeWeak type="a">7.12.2017::5:52:43</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.12.2017::5:30:24</_modifiedTime>
+			<_lastID type="a">2</_lastID>
+			<weakCGTime type="a">7.12.2017::5:52:43</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<_EntryPoints type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</_EntryPoints>
+			<AggregatesList type="e">
+				<value>GUID 953f4e79-1452-4003-98b1-3ed484087c18</value>
+				<value>GUID bd1de769-18e9-45eb-8bc5-6ed61813ff5b</value>
+				<value>GUID 122ac776-3fb4-4049-a0de-c2a8853a7395</value>
+			</AggregatesList>
+		</IUseCase>
+		<IDependency type="e">
+			<_id type="a">GUID 953f4e79-1452-4003-98b1-3ed484087c18</_id>
+			<_myState type="a">2048</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">CU5_Buscar_Curso</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">include</_hname>
+							<_hid type="a">GUID 17ef9a2f-cb89-11d5-b5bf-00d0b780aafd</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">7.12.2017::5:52:12</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.12.2017::5:30:24</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU5_Buscar_Curso</_hname>
+					<_hid type="a">GUID 31aee976-126b-4699-bb73-6a54e4249d4c</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hid type="a">GUID c135406d-ffbd-40ab-9b2c-56e758988618</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID bd1de769-18e9-45eb-8bc5-6ed61813ff5b</_id>
+			<_myState type="a">2048</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">CU4_Buscar_Profesor</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">include</_hname>
+							<_hid type="a">GUID 17ef9a2f-cb89-11d5-b5bf-00d0b780aafd</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">7.12.2017::5:52:43</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.12.2017::5:30:24</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">CU4_Buscar_Profesor</_hname>
+					<_hid type="a">GUID e9f9e68b-42c0-44a7-a0e1-300c2148f4ba</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hid type="a">GUID c135406d-ffbd-40ab-9b2c-56e758988618</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 122ac776-3fb4-4049-a0de-c2a8853a7395</_id>
+			<_myState type="a">10240</_myState>
+			<_rmmServerID type="a">-1</_rmmServerID>
+			<_name type="a">itsAlumno</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.12.2017::5:1:42</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IActor</_hm2Class>
+					<_hfilename type="a">.\MCU.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU</_hsubsystem>
+					<_hname type="a">Alumno</_hname>
+					<_hid type="a">GUID 83649fbf-dd47-40ad-8bd7-92cf9cd468ff</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+

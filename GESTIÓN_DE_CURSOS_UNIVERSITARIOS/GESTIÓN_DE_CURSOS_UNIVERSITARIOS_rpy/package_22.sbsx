@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>100.840.0</version>
+	<lang>C++</lang>
+	<BuildNo>9841247</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 6404dc14-3468-4d9a-8e33-25e1fa84da89</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">package_22</_name>
+			<_displayName type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil\fcharset0 MS Shell Dlg;}}%0D
+\viewkind4\uc1\pard\f0\fs17 Incrementar la precisi\'f3n de las recomendaciones de cursos en un 20%25 para abril de 2024.\par%0D
+}%0D
+</_displayName>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hfilename type="a">E:\2023-2\ADS2\profiles\profiles\BusinessModelingProfile\BusinessModeling.sbsx</_hfilename>
+							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
+							<_hname type="a">BusinessGoal</_hname>
+							<_hid type="a">GUID 52227911-5072-4241-a026-92e618f8b8c7</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">7.12.2017::6:16:40</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hfilename type="a">.\MCUN.sbsx</_hfilename>
+					<_hsubsystem type="a">MCUN</_hsubsystem>
+					<_hname type="a">Diagrama_Objetivos_Negocio_vs_CUN</_hname>
+					<_hid type="a">GUID a425641f-1c67-4b63-8215-dfb38b47aeab</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">7.12.2017::6:16:40</_modifiedTime>
+			<_lastID type="a">1</_lastID>
+			<weakCGTime type="a">7.12.2017::6:16:40</weakCGTime>
+			<strongCGTime type="a">7.12.2017::6:16:40</strongCGTime>
+			<_defaultComposite type="s">GUID 7468b663-dec6-4ad7-b32b-d2fe592deef0</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<_configurationRelatedTime type="a">12.31.1969::19:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID d4137439-d7dd-46c2-a7fd-a6974c52a896</value>
+				<value>GUID 7468b663-dec6-4ad7-b32b-d2fe592deef0</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IDependency type="e">
+			<_id type="a">GUID d4137439-d7dd-46c2-a7fd-a6974c52a896</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">Compra_Curso</_name>
+			<_modifiedTimeWeak type="a">7.12.2017::6:16:40</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.12.2017::6:16:40</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hfilename type="a">.\Compra_Curso.sbsx</_hfilename>
+					<_hname type="a">Compra_Curso</_hname>
+					<_hid type="a">GUID a5c47ab7-b8d4-44fa-8a42-b32847eec1e9</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hid type="a">GUID 6404dc14-3468-4d9a-8e33-25e1fa84da89</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IClass type="e">
+			<_id type="a">GUID 7468b663-dec6-4ad7-b32b-d2fe592deef0</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+
